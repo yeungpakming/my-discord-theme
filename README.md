@@ -9,6 +9,9 @@ Rust Viridian is a customized Discord theme built on top of the **Midnight** the
 - **Color scheme for my taste**  
   Also included several CSS snippets from Discord.
 
+- **Various snippets for better UX**
+  Including Spotify player etc.
+
 - **Horizontal Server List**  
   Aligned the HorizontalServerList for the midnight theme layout.
 
