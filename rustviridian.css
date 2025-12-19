@@ -81,7 +81,7 @@ body {
     /* text colors */
     --text-0: var(--bg-4); /* text on colored elements */
     --text-1: hsl(41, 56%, 91%); /* bright text on colored elements */
-    --text-2: hsl(17, 86%, 40%); /* headings and important text */
+    --text-2: hsl(43, 71%, 93%); /* headings and important text */
     --text-3: hsl(38, 41%, 71%); /* normal text */
     --text-4: hsl(38, 17%, 58%); /* icon buttons and channels */
     --text-5: hsla(38, 41%, 71%, 0.4); /* muted channels/chats and timestamps */
@@ -98,7 +98,7 @@ body {
 
     /* accent colors */
     --accent-1: var(--green-1); /* links and other accent text */
-    --accent-2: var(--text-2); /* small accent elements */
+    --accent-2: var(--orange-2); /* small accent elements */
     --accent-3: var(--green-3); /* accent buttons */
     --accent-4: var(--yellow-4); /* accent buttons when hovered */
     --accent-5: var(--yellow-5); /* accent buttons when clicked */
