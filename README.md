@@ -26,7 +26,7 @@ Rust Viridian is a customized Discord theme built on top of the **Midnight** the
 
 ## Screenshots
 
-<img width="2498" height="1440" alt="image" src="https://github.com/user-attachments/assets/0b033dd1-90fd-4ee8-b37d-2c31012decc7" />
+<img width="2498" height="1440" alt="image" src="https://github.com/user-attachments/assets/6df9e935-af61-4bb0-92d5-43dcd4b14753" />
 
 
 ---
